@@ -1,0 +1,23 @@
+{
+  "name": "meme_creator",
+  "version": "1.0.0",
+  "description": "An app to create memes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiogval/meme_creators.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiogval/meme_creators/issues"
+  },
+  "homepage": "https://github.com/sergiogval/meme_creators#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
