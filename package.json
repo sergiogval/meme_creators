@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "An app to create memes",
   "private": "true",
+  "mode": "development",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "webpack": "webpack .src/js/memes.js --output-filename dist/memes.js",
-    "serve": "http-server"
+    "test": "echo && exit 1",
+    "webpack": "webpack"
   },
   "repository": {
     "type": "git",
