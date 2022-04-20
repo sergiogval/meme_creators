@@ -1,1 +1,1 @@
-console.log("general js file")
+import '../css/styles.css';
